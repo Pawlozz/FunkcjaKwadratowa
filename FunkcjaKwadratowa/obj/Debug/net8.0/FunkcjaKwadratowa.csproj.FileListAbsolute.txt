@@ -1,0 +1,14 @@
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\bin\Debug\net8.0\FunkcjaKwadratowa.exe
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\bin\Debug\net8.0\FunkcjaKwadratowa.deps.json
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\bin\Debug\net8.0\FunkcjaKwadratowa.runtimeconfig.json
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\bin\Debug\net8.0\FunkcjaKwadratowa.dll
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\bin\Debug\net8.0\FunkcjaKwadratowa.pdb
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.AssemblyInfoInputs.cache
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.AssemblyInfo.cs
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.csproj.CoreCompileInputs.cache
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.dll
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\refint\FunkcjaKwadratowa.dll
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.pdb
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\FunkcjaKwadratowa.genruntimeconfig.cache
+C:\Users\golat\source\repos\FunkcjaKwadratowa\FunkcjaKwadratowa\obj\Debug\net8.0\ref\FunkcjaKwadratowa.dll
